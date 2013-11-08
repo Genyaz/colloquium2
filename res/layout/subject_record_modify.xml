@@ -14,7 +14,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/subject_score_edit" android:layout_gravity="center" android:hint="Enter your score here"
-            android:layout_marginTop="12dp" android:inputType="number"/>
+            android:layout_marginTop="12dp" android:inputType="numberSigned"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
